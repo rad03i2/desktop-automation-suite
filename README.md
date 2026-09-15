@@ -17,3 +17,8 @@ A safe automation starter suite for Windows desktop workflows. The goal is to au
 ## Safety principle
 
 Every script in this repository is designed to be readable, reversible, and limited to local user productivity tasks.
+
+## Official links
+
+- Portfolio: https://rdwan.dev
+- Project page: https://rdwan.dev/projects/06-desktop-automation-suite.html
